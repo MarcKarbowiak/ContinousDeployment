@@ -1,0 +1,10 @@
+C:\Source\courses.edx.azureappserviceconfiguration\ContinousDeployment\ContinousWeb\bin\Debug\netcoreapp2.0\ContinousWeb.deps.json
+C:\Source\courses.edx.azureappserviceconfiguration\ContinousDeployment\ContinousWeb\bin\Debug\netcoreapp2.0\ContinousWeb.runtimeconfig.json
+C:\Source\courses.edx.azureappserviceconfiguration\ContinousDeployment\ContinousWeb\bin\Debug\netcoreapp2.0\ContinousWeb.runtimeconfig.dev.json
+C:\Source\courses.edx.azureappserviceconfiguration\ContinousDeployment\ContinousWeb\bin\Debug\netcoreapp2.0\ContinousWeb.dll
+C:\Source\courses.edx.azureappserviceconfiguration\ContinousDeployment\ContinousWeb\bin\Debug\netcoreapp2.0\ContinousWeb.pdb
+C:\Source\courses.edx.azureappserviceconfiguration\ContinousDeployment\ContinousWeb\obj\Debug\netcoreapp2.0\ContinousWeb.csproj.CoreCompileInputs.cache
+C:\Source\courses.edx.azureappserviceconfiguration\ContinousDeployment\ContinousWeb\obj\Debug\netcoreapp2.0\ContinousWeb.AssemblyInfoInputs.cache
+C:\Source\courses.edx.azureappserviceconfiguration\ContinousDeployment\ContinousWeb\obj\Debug\netcoreapp2.0\ContinousWeb.AssemblyInfo.cs
+C:\Source\courses.edx.azureappserviceconfiguration\ContinousDeployment\ContinousWeb\obj\Debug\netcoreapp2.0\ContinousWeb.dll
+C:\Source\courses.edx.azureappserviceconfiguration\ContinousDeployment\ContinousWeb\obj\Debug\netcoreapp2.0\ContinousWeb.pdb
